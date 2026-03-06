@@ -48,24 +48,6 @@ Advanced-Java-Programming
 * Java JDK 8 or higher
 * VS Code / IntelliJ IDEA
 
-## ▶️ How to Run
-
-1. Clone the repository
-
-git clone https://github.com/your-username/Advanced-Java-Programming.git
-
-2. Open the project in VS Code or IntelliJ.
-
-3. Navigate to the src folder of the program.
-
-4. Compile the program
-
-javac Server.java
-
-5. Run the program
-
-java Server
-
 ## 📌 Note
 
 * Some programs require running **Server first and then Client**.
